@@ -1,2 +1,1 @@
-# c-practice
-Learning C
+# Matrix Rotation Problem 
